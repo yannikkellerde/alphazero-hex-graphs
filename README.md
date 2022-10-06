@@ -1,3 +1,8 @@
+# Fork for HEX with Graph-Neural-Networks
+
+This fork has the goal to make AlphaZero General work with Graph Neural Networks and my Graph implementation of Hex (To be released)
+
+
 # Fast AlphaZero General
 
 > There is a new version of this project that is significantly faster. It has large parts written in C++ and may be less beginner friendly, but it is much more practical to use. It lives at [bhansconnect/alphazero-pybind11](https://github.com/bhansconnect/alphazero-pybind11). 
